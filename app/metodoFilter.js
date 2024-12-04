@@ -1,9 +1,10 @@
-const btnFiltrarLivrosDeFront = document.getElementById('btnFiltrarLivrosFront');
+const botoes = document.querySelectorAll('.btn');
 
-btnFiltrarLivrosDeFront.addEventListener('click', filtrarLivrosDeFront);
+botoes.forEach(btn => btn.addEventListener('click', filtrarLivros));
 
-function filtrarLivrosDeFront() {
-    let livrosFiltrados = livros.filter(livro => livro.categoria == 'front-end');
-    console.table(livrosFiltrados);
-
+function filtrarLivros() {
+    const elementoBtn = document.getElementById(this.id);
+    const categoria = elementoBtn.value;
+    let livrosFiltrados = categoria == 'disponivel' ? livrosComDesconto.filter(livro => livro.quantidade > 0) : livrosComDesconto.filter(livro => livro.categoria == categoria);
+    exibirOsLivrosNaTela(livrosFiltrados);
 }
