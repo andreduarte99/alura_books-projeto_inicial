@@ -2,7 +2,7 @@
 
 Projeto  utilizando JavaScript manipulando elementos da página.
 
-| :placard: Vitrine.Dev |     
+| :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Alurabooks Parte 2 metodos de Array**
 | :label: Tecnologias | JavaScript
