@@ -13,9 +13,6 @@ Projeto  utilizando JavaScript manipulando elementos da página.
 
 ![Screenshot_2](https://github.com/user-attachments/assets/694a38bd-2114-4b42-a04b-8a62e99e68b2#vitrinedev)
 
-
-## Detalhes do projeto
-
 <p align="center">
 <img src="https://img.shields.io/badge/STATUS-FINALIZADO-green" alt="badges"/>
 <img src="https://img.shields.io/github/stars/andreduarte99?style=social" alt="badges"/>
