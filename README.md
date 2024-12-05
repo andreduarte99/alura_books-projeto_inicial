@@ -6,7 +6,7 @@ Projeto  utilizando JavaScript manipulando elementos da página.
 | -------------  | --- |
 | :sparkles: Nome        | **Alurabooks Parte 2 metodos de Array**
 | :label: Tecnologias | JavaScript
-| :rocket: URL         | https://andreduarte99.github.io/alurabooks/
+| :rocket: URL         | https://andreduarte99.github.io/alura_books-projeto_inicial
 | :fire: Desafio     | https://cursos.alura.com.br/course/javascript-metodos-array
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
